@@ -1,0 +1,4 @@
+[package]
+name = "PhilosopherProblem"
+version = "0.1.0"
+authors = ["Christian Encarnacion <encarc@rpi.edu>"]
